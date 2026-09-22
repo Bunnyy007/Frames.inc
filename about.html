@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>About — Frames.inc</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/png" href="Favicon.png">
+</head>
+
+<body>
+<svg class="ambient-line" viewBox="0 0 1600 900" preserveAspectRatio="none">
+    <path d="M-100 300 C250 50, 450 650, 800 350 S1250 50, 1700 300" />
+</svg>
+    <header>
+        <div class="logo">
+            <a href="index.html">frames.inc</a>
+        </div>
+
+        <div class="note">about the founder</div>
+    </header>
+
+    <main class="about-page">
+
+        <section class="about-hero">
+            <p class="about-label">ABOUT THE FOUNDER</p>
+
+            <h1>
+                The person<br>
+                behind <span>frames.</span>
+            </h1>
+
+            <p class="about-intro">
+                A small project built around a simple idea —
+                finding and sharing things worth framing.
+            </p>
+        </section>
+
+        <section class="about-content">
+
+            <div class="about-photo">
+            
+                <img src="founder.png" alt="Founder of frames.">
+            
+            </div>
+
+            <div class="about-text">
+                <h2>Hi, I'm Karupusami.</h2>
+
+                <p>
+                    I'm a designer and creator interested in visual
+                    design, digital experiences and
+                    the little details that make something feel right.
+                </p>
+
+                <p>
+                    I created frames. as a small personal space to
+                    collect and share wallpapers that I find
+                    interesting, beautiful or simply worth keeping.
+                </p>
+
+                <p>
+                    It's a simple project, and the collection will
+                    keep growing over time.
+                </p>
+            </div>
+
+        </section>
+
+    </main>
+
+    <footer class="site-footer">
+        <div class="footer-brand">frames.inc</div>
+
+        <p>
+            Something nice for your screen.<br>
+            A small collection of phone wallpapers.
+        </p>
+
+        <div class="footer-bottom">
+            <span>© 2026 frames.inc</span>
+
+            <div class="footer-links">
+                <a href="about.html">About</a>
+                <a href="#">Contact</a>
+            </div>
+        </div>
+    </footer>
+
+<script>
+    const wavePath = document.querySelector('.ambient-line path');
+
+    let phase = 0;
+
+    function animateWave() {
+        phase += 0.025;
+
+        const y1 = 50 + Math.sin(phase) * 120;
+        const y2 = 650 + Math.sin(phase + 1.5) * 120;
+        const y3 = 350 + Math.sin(phase + 3) * 100;
+        const y4 = 50 + Math.sin(phase + 4.5) * 120;
+
+        wavePath.setAttribute(
+            'd',
+            `M-100 300
+         C250 ${y1}, 450 ${y2}, 800 ${y3}
+         S1250 ${y4}, 1700 300`
+        );
+
+        requestAnimationFrame(animateWave);
+    }
+
+    animateWave();
+</script>
+
+</body>
+
+</html>

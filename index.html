@@ -1,0 +1,193 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Frames.inc</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/png" href="Favicon.png">
+</head>
+
+<body>
+    <svg class="ambient-line" viewBox="0 0 1600 900" preserveAspectRatio="none">
+        <path d="M-100 300 C250 50, 450 650, 800 350 S1250 50, 1700 300" />
+    </svg>
+
+    <header>
+        <div class="logo">frames.inc</div>
+        <div class="note">;)</div>
+    </header>
+    <main>
+        <section class="hero">
+    <h1><span id="heroText">Scroll. Pick. Set.</span></h1>
+    <p>Curated views for your everyday.</p>
+
+    <div class="search-box" id="searchBox">
+    <button class="search-toggle" id="searchToggle" aria-label="Search">⌕</button>
+
+    <div class="search-field">
+        <span class="search-icon">⌕</span>
+        <input type="text" id="searchInput" placeholder="Search wallpapers..." autocomplete="off">
+    </div>
+</div>
+</section>
+        <section class="controls">
+    <div class="filters">
+        <button class="filter active" data-cat="All">All</button>
+        <button class="filter" data-cat="Inspire">Inspire</button>
+        <button class="filter" data-cat="Aesthetic">Aesthetic</button>
+        <button class="filter" data-cat="Superheroes">Superheroes</button>
+        <button class="filter" data-cat="Dark">Dark</button>
+        <button class="filter" data-cat="Anime">Anime</button>
+        <button class="filter" data-cat="Cartoons">Cartoons</button>
+        <button class="filter" data-cat="Games">Games</button>
+    </div>
+</section>
+        <section class="grid" id="grid"></section>
+        <div class="load-more-wrap">
+            <button id="loadMore">Load more</button>
+        </div>
+        <section class="coming-soon">
+            <h2>More frames coming soon.</h2>
+            <p>Check back frequently.</p>
+        </section>
+    </main>
+    <footer class="site-footer">
+    <div class="footer-brand">frames.inc</div>
+
+    <p>Scroll. Pick. Set.<br>
+    Curated views for your everyday.</p>
+
+    <div class="footer-bottom">
+        <span>© 2026 frames.</span>
+        <div class="footer-links">
+            <a href="about.html">About</a>
+            <a href="#">Contact</a>
+        </div>
+    </div>
+</footer>
+    <div class="modal" id="modal">
+        <div class="viewer"><button class="close" id="close">×</button><img id="preview"><a id="download"
+                class="download" download>Download wallpaper</a></div>
+    </div>
+    <script src="wallpapers.js"></script>
+    <script>
+        const grid = document.getElementById('grid'), search = document.getElementById('searchInput'), modal = document.getElementById('modal'), preview = document.getElementById('preview'), download = document.getElementById('download'); loadMore = document.getElementById('loadMore'); let cat = 'All'; let visibleCount = 24; window.visibleCount = visibleCount;
+        function render() {grid.innerHTML = ''; let q = search.value.toLowerCase(); let list = (window.WALLPAPERS || []).filter(x => (cat === 'All' || x.category.toLowerCase() === cat.toLowerCase()) && (!q || (x.title + ' ' + x.category).toLowerCase().includes(q))); let visibleCount = window.visibleCount || 24; list = list.slice(0, visibleCount); if (!list.length) {grid.innerHTML = '<div class="empty">No wallpapers found.<br>Add images to the wallpapers folder and run update_wallpapers.bat.</div>'; loadMore.style.display = 'none'; return }  list.forEach(x => {let c = document.createElement('article'); c.className = 'card'; c.innerHTML = '<img src="wallpapers/' + x.file.split('/').map(encodeURIComponent).join('/') + '" alt="' + x.title + '"><div class="meta"><span>' + x.title + '</span><small>' + x.category + '</small></div>'; c.querySelector('img').onclick = () => {const imagePath = 'wallpapers/' + x.file.split('/').map(encodeURIComponent).join('/');  preview.src = imagePath; download.href = imagePath; download.download = x.file.split('/').pop(); modal.classList.add('open')}; grid.appendChild(c)})} loadMore.onclick = () => {
+    visibleCount += 24;
+    window.visibleCount = visibleCount;
+    render();
+
+    const totalMatches = (window.WALLPAPERS || []).filter(x =>
+        cat === 'All' || x.category.toLowerCase() === cat.toLowerCase()
+    ).length;
+
+    if (visibleCount >= totalMatches) {
+        loadMore.style.display = 'none';
+    }
+};
+        document.querySelectorAll('.filter').forEach(b => b.onclick = () => { document.querySelectorAll('.filter').forEach(x => x.classList.remove('active')); b.classList.add('active'); cat = b.dataset.cat; visibleCount = 24; window.visibleCount = visibleCount; loadMore.style.display = 'flex'; render(); }); search.oninput = render; document.getElementById('close').onclick = () => modal.classList.remove('open'); modal.onclick = e => {if (e.target === modal) modal.classList.remove('open')}; render();
+        
+        
+        const heroTexts = [
+                "Scroll. Pick. Set.",
+                "Frames for your screen",
+                "Set the vibe.",
+            ];
+    let heroIndex = 0;
+    let charIndex = heroTexts[0].length;
+    let deleting = true;
+
+    const heroText = document.getElementById('heroText');
+
+    function typeHero() {
+        const currentText = heroTexts[heroIndex];
+
+        if (deleting) {
+            heroText.textContent = currentText.substring(0, charIndex);
+            charIndex--;
+
+            if (charIndex < 0) {
+                deleting = false;
+                heroIndex = (heroIndex + 1) % heroTexts.length;
+                charIndex = 0;
+                setTimeout(typeHero, 600);
+                return;
+            }
+        } else {
+            const nextText = heroTexts[heroIndex];
+            heroText.textContent = nextText.substring(0, charIndex);
+            charIndex++;
+
+            if (charIndex > nextText.length) {
+                deleting = true;
+                charIndex = nextText.length;
+                setTimeout(typeHero, 1800);
+                return;
+            }
+        }
+
+        setTimeout(typeHero, deleting ? 55 : 80);
+    }
+
+    setTimeout(typeHero, 1800);
+
+    document.addEventListener('mousemove', (e) => {
+    document.body.style.setProperty('--mouse-x', e.clientX + 'px');
+    document.body.style.setProperty('--mouse-y', e.clientY + 'px');
+});
+
+    const searchBox = document.getElementById('searchBox');
+    const searchToggle = document.getElementById('searchToggle');
+    const searchInput = document.getElementById('searchInput');
+
+    searchToggle.onclick = () => {
+        searchBox.classList.add('open');
+        setTimeout(() => searchInput.focus(), 250);
+    };
+
+    document.addEventListener('click', (e) => {
+        if (!searchBox.contains(e.target) && !searchInput.value) {
+            searchBox.classList.remove('open');
+        }
+    });
+
+    searchInput.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape') {
+            searchInput.value = '';
+            searchBox.classList.remove('open');
+            searchInput.dispatchEvent(new Event('input'));
+        }
+    });
+
+    const wavePath = document.querySelector('.ambient-line path');
+
+    let phase = 0;
+
+    function animateWave() {
+        phase += 0.015;
+
+        const wave = Math.sin(phase);
+
+        const y1 = 50 + Math.sin(phase) * 120;
+        const y2 = 650 + Math.sin(phase + 1.5) * 120;
+        const y3 = 350 + Math.sin(phase + 3) * 100;
+        const y4 = 50 + Math.sin(phase + 4.5) * 120;
+
+        wavePath.setAttribute(
+            'd',
+            `M-100 300
+         C250 ${y1}, 450 ${y2}, 800 ${y3}
+         S1250 ${y4}, 1700 300`
+        );
+
+        requestAnimationFrame(animateWave);
+    }
+
+    animateWave();
+
+    </script>
+</body>
+
+</html>
