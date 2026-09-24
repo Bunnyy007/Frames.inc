@@ -1,5 +1,10 @@
 window.WALLPAPERS=[
   {
+    "file": "Aesthetic/Addicted to coffee.jpg",
+    "title": "Addicted To Coffee",
+    "category": "Aesthetic"
+  },
+  {
     "file": "Aesthetic/Adventure gone.jpg",
     "title": "Adventure Gone",
     "category": "Aesthetic"
@@ -7,6 +12,11 @@ window.WALLPAPERS=[
   {
     "file": "Aesthetic/Aesthetic.jpg",
     "title": "Aesthetic",
+    "category": "Aesthetic"
+  },
+  {
+    "file": "Aesthetic/Angell.jpg",
+    "title": "Angell",
     "category": "Aesthetic"
   },
   {
@@ -25,6 +35,16 @@ window.WALLPAPERS=[
     "category": "Aesthetic"
   },
   {
+    "file": "Aesthetic/Bubble blast.jpg",
+    "title": "Bubble Blast",
+    "category": "Aesthetic"
+  },
+  {
+    "file": "Aesthetic/Can you spot the man.jpg",
+    "title": "Can You Spot The Man",
+    "category": "Aesthetic"
+  },
+  {
     "file": "Aesthetic/Car in Orange BG.jpg",
     "title": "Car In Orange Bg",
     "category": "Aesthetic"
@@ -35,6 +55,11 @@ window.WALLPAPERS=[
     "category": "Aesthetic"
   },
   {
+    "file": "Aesthetic/Cloudy.jpg",
+    "title": "Cloudy",
+    "category": "Aesthetic"
+  },
+  {
     "file": "Aesthetic/Coffee time.jpg",
     "title": "Coffee Time",
     "category": "Aesthetic"
@@ -42,6 +67,11 @@ window.WALLPAPERS=[
   {
     "file": "Aesthetic/Colorful.jpg",
     "title": "Colorful",
+    "category": "Aesthetic"
+  },
+  {
+    "file": "Aesthetic/Dark moon.jpg",
+    "title": "Dark Moon",
     "category": "Aesthetic"
   },
   {
@@ -57,6 +87,11 @@ window.WALLPAPERS=[
   {
     "file": "Aesthetic/Escape.jpg",
     "title": "Escape",
+    "category": "Aesthetic"
+  },
+  {
+    "file": "Aesthetic/Flamehead.jpg",
+    "title": "Flamehead",
     "category": "Aesthetic"
   },
   {
@@ -85,13 +120,28 @@ window.WALLPAPERS=[
     "category": "Aesthetic"
   },
   {
+    "file": "Aesthetic/Green Light.jpg",
+    "title": "Green Light",
+    "category": "Aesthetic"
+  },
+  {
     "file": "Aesthetic/Hotttt.jpg",
     "title": "Hotttt",
     "category": "Aesthetic"
   },
   {
+    "file": "Aesthetic/Just a Car.jpg",
+    "title": "Just A Car",
+    "category": "Aesthetic"
+  },
+  {
     "file": "Aesthetic/Keep focused.jpg",
     "title": "Keep Focused",
+    "category": "Aesthetic"
+  },
+  {
+    "file": "Aesthetic/Man going for Goals.jpg",
+    "title": "Man Going For Goals",
     "category": "Aesthetic"
   },
   {
@@ -102,6 +152,11 @@ window.WALLPAPERS=[
   {
     "file": "Aesthetic/Orange Bottle.jpg",
     "title": "Orange Bottle",
+    "category": "Aesthetic"
+  },
+  {
+    "file": "Aesthetic/Peaceful Coffee shop.jpg",
+    "title": "Peaceful Coffee Shop",
     "category": "Aesthetic"
   },
   {
@@ -130,6 +185,11 @@ window.WALLPAPERS=[
     "category": "Aesthetic"
   },
   {
+    "file": "Aesthetic/Searching for partner.jpg",
+    "title": "Searching For Partner",
+    "category": "Aesthetic"
+  },
+  {
     "file": "Aesthetic/Spider symbol.jpg",
     "title": "Spider Symbol",
     "category": "Aesthetic"
@@ -142,6 +202,21 @@ window.WALLPAPERS=[
   {
     "file": "Aesthetic/Supes.jpg",
     "title": "Supes",
+    "category": "Aesthetic"
+  },
+  {
+    "file": "Aesthetic/Trying to Fall.jpg",
+    "title": "Trying To Fall",
+    "category": "Aesthetic"
+  },
+  {
+    "file": "Aesthetic/Walking Alone.jpg",
+    "title": "Walking Alone",
+    "category": "Aesthetic"
+  },
+  {
+    "file": "Aesthetic/Warrior land.jpg",
+    "title": "Warrior Land",
     "category": "Aesthetic"
   },
   {
@@ -165,6 +240,16 @@ window.WALLPAPERS=[
     "category": "Aesthetic"
   },
   {
+    "file": "Aesthetic/Windmill scene.jpg",
+    "title": "Windmill Scene",
+    "category": "Aesthetic"
+  },
+  {
+    "file": "Aesthetic/Wolfff.jpg",
+    "title": "Wolfff",
+    "category": "Aesthetic"
+  },
+  {
     "file": "Aesthetic/Women in forest.jpg",
     "title": "Women In Forest",
     "category": "Aesthetic"
@@ -172,6 +257,11 @@ window.WALLPAPERS=[
   {
     "file": "Anime/Anime Girls.jpg",
     "title": "Anime Girls",
+    "category": "Anime"
+  },
+  {
+    "file": "Anime/Coolest scene ever.jpg",
+    "title": "Coolest Scene Ever",
     "category": "Anime"
   },
   {
@@ -190,6 +280,11 @@ window.WALLPAPERS=[
     "category": "Anime"
   },
   {
+    "file": "Anime/Gohan.jpg",
+    "title": "Gohan",
+    "category": "Anime"
+  },
+  {
     "file": "Anime/Goku & Gohan.jpg",
     "title": "Goku & Gohan",
     "category": "Anime"
@@ -200,14 +295,54 @@ window.WALLPAPERS=[
     "category": "Anime"
   },
   {
+    "file": "Anime/Kakashi.jpg",
+    "title": "Kakashi",
+    "category": "Anime"
+  },
+  {
+    "file": "Anime/Madara(obito).jpg",
+    "title": "Madara(Obito)",
+    "category": "Anime"
+  },
+  {
+    "file": "Anime/Master Jiraya.jpg",
+    "title": "Master Jiraya",
+    "category": "Anime"
+  },
+  {
     "file": "Anime/Naruto Hokage.jpeg",
     "title": "Naruto Hokage",
+    "category": "Anime"
+  },
+  {
+    "file": "Anime/Naruto and hinata.jpg",
+    "title": "Naruto And Hinata",
     "category": "Anime"
   },
   {
     "file": "Anime/Naruto eats.jpg",
     "title": "Naruto Eats",
     "category": "Anime"
+  },
+  {
+    "file": "Anime/Super Trunks.jpg",
+    "title": "Super Trunks",
+    "category": "Anime"
+  },
+  {
+    "file": "Artists/MJ pop.jpg",
+    "title": "Mj Pop",
+    "category": "Artists"
+  },
+  {
+    "file": "Artists/MJ.jpg",
+    "title": "Mj",
+    "category": "Artists"
+  },
+  {
+    "file": "Artists/Michael Jackson.jpg",
+    "title": "Michael Jackson",
+    "category": "Artists"
   },
   {
     "file": "Cartoons/Batman Anime.jpg",
@@ -265,6 +400,11 @@ window.WALLPAPERS=[
     "category": "Cartoons"
   },
   {
+    "file": "Cartoons/Got time for Tea.jpg",
+    "title": "Got Time For Tea",
+    "category": "Cartoons"
+  },
+  {
     "file": "Cartoons/Grand Regent.jpg",
     "title": "Grand Regent",
     "category": "Cartoons"
@@ -297,6 +437,11 @@ window.WALLPAPERS=[
   {
     "file": "Cartoons/Suspisious.jpg",
     "title": "Suspisious",
+    "category": "Cartoons"
+  },
+  {
+    "file": "Cartoons/The Incredibles.jpg",
+    "title": "The Incredibles",
     "category": "Cartoons"
   },
   {
@@ -335,8 +480,18 @@ window.WALLPAPERS=[
     "category": "Dark"
   },
   {
+    "file": "Dark/A man with wings.jpg",
+    "title": "A Man With Wings",
+    "category": "Dark"
+  },
+  {
     "file": "Dark/Alien in space.jpg",
     "title": "Alien In Space",
+    "category": "Dark"
+  },
+  {
+    "file": "Dark/B.C Buildin.jpg",
+    "title": "B.C Buildin",
     "category": "Dark"
   },
   {
@@ -367,6 +522,11 @@ window.WALLPAPERS=[
   {
     "file": "Dark/Cave graph.jpg",
     "title": "Cave Graph",
+    "category": "Dark"
+  },
+  {
+    "file": "Dark/Dark Galaxy.jpg",
+    "title": "Dark Galaxy",
     "category": "Dark"
   },
   {
@@ -525,8 +685,18 @@ window.WALLPAPERS=[
     "category": "Games"
   },
   {
+    "file": "Games/Ghosttttt.jpg",
+    "title": "Ghosttttt",
+    "category": "Games"
+  },
+  {
     "file": "Inspire/Be obssesed.jpg",
     "title": "Be Obssesed",
+    "category": "Inspire"
+  },
+  {
+    "file": "Inspire/Be strong.jpg",
+    "title": "Be Strong",
     "category": "Inspire"
   },
   {
@@ -537,6 +707,16 @@ window.WALLPAPERS=[
   {
     "file": "Inspire/Dark Warrior.jpg",
     "title": "Dark Warrior",
+    "category": "Inspire"
+  },
+  {
+    "file": "Inspire/Gone for ride.jpg",
+    "title": "Gone For Ride",
+    "category": "Inspire"
+  },
+  {
+    "file": "Inspire/K1NG.jpg",
+    "title": "K1Ng",
     "category": "Inspire"
   },
   {
@@ -570,6 +750,11 @@ window.WALLPAPERS=[
     "category": "Inspire"
   },
   {
+    "file": "Inspire/Survival.jpg",
+    "title": "Survival",
+    "category": "Inspire"
+  },
+  {
     "file": "Inspire/Tony stark.jpg",
     "title": "Tony Stark",
     "category": "Inspire"
@@ -580,6 +765,151 @@ window.WALLPAPERS=[
     "category": "Inspire"
   },
   {
+    "file": "Inspire/Warrior in an Island.jpg",
+    "title": "Warrior In An Island",
+    "category": "Inspire"
+  },
+  {
+    "file": "Kollywood/AK swag.jpg",
+    "title": "Ak Swag",
+    "category": "Kollywood"
+  },
+  {
+    "file": "Kollywood/AK.jpg",
+    "title": "Ak",
+    "category": "Kollywood"
+  },
+  {
+    "file": "Kollywood/Ajith shalini.jpg",
+    "title": "Ajith Shalini",
+    "category": "Kollywood"
+  },
+  {
+    "file": "Kollywood/Ajith.jpg",
+    "title": "Ajith",
+    "category": "Kollywood"
+  },
+  {
+    "file": "Kollywood/Andaavar.jpg",
+    "title": "Andaavar",
+    "category": "Kollywood"
+  },
+  {
+    "file": "Kollywood/Andavar.jpg",
+    "title": "Andavar",
+    "category": "Kollywood"
+  },
+  {
+    "file": "Kollywood/Baasha.jpg",
+    "title": "Baasha",
+    "category": "Kollywood"
+  },
+  {
+    "file": "Kollywood/Fall for AK.jpg",
+    "title": "Fall For Ak",
+    "category": "Kollywood"
+  },
+  {
+    "file": "Kollywood/Get rajinified.jpg",
+    "title": "Get Rajinified",
+    "category": "Kollywood"
+  },
+  {
+    "file": "Kollywood/Kamal Hassan.jpg",
+    "title": "Kamal Hassan",
+    "category": "Kollywood"
+  },
+  {
+    "file": "Kollywood/Khan.jpg",
+    "title": "Khan",
+    "category": "Kollywood"
+  },
+  {
+    "file": "Kollywood/Man With a plan.jpg",
+    "title": "Man With A Plan",
+    "category": "Kollywood"
+  },
+  {
+    "file": "Kollywood/Padayappa.jpg",
+    "title": "Padayappa",
+    "category": "Kollywood"
+  },
+  {
+    "file": "Kollywood/Prakash Raj.jpg",
+    "title": "Prakash Raj",
+    "category": "Kollywood"
+  },
+  {
+    "file": "Kollywood/Rajini in Johnny.jpg",
+    "title": "Rajini In Johnny",
+    "category": "Kollywood"
+  },
+  {
+    "file": "Kollywood/Shobana.jpg",
+    "title": "Shobana",
+    "category": "Kollywood"
+  },
+  {
+    "file": "Kollywood/Style Specialist.jpg",
+    "title": "Style Specialist",
+    "category": "Kollywood"
+  },
+  {
+    "file": "Kollywood/Superstar Rajini.jpg",
+    "title": "Superstar Rajini",
+    "category": "Kollywood"
+  },
+  {
+    "file": "Kollywood/Superstarrr.jpg",
+    "title": "Superstarrr",
+    "category": "Kollywood"
+  },
+  {
+    "file": "Kollywood/Thalapathi Rajini.jpg",
+    "title": "Thalapathi Rajini",
+    "category": "Kollywood"
+  },
+  {
+    "file": "Kollywood/The One.jpg",
+    "title": "The One",
+    "category": "Kollywood"
+  },
+  {
+    "file": "Kollywood/The boss.jpg",
+    "title": "The Boss",
+    "category": "Kollywood"
+  },
+  {
+    "file": "Kollywood/Varanam Aiyaram Suriya.jpg",
+    "title": "Varanam Aiyaram Suriya",
+    "category": "Kollywood"
+  },
+  {
+    "file": "Kollywood/Veeramae Jayam.jpg",
+    "title": "Veeramae Jayam",
+    "category": "Kollywood"
+  },
+  {
+    "file": "Kollywood/Vikram Kamal Hassan.jpg",
+    "title": "Vikram Kamal Hassan",
+    "category": "Kollywood"
+  },
+  {
+    "file": "Kollywood/Vikram.jpg",
+    "title": "Vikram",
+    "category": "Kollywood"
+  },
+  {
+    "file": "Kollywood/rajinikanth.jpg",
+    "title": "Rajinikanth",
+    "category": "Kollywood"
+  },
+  {
+    "file": "Movies/American Psycho.jpg",
+    "title": "American Psycho",
+    "category": "Movies"
+  },
+  {
     "file": "Movies/Casino Royale.jpg",
     "title": "Casino Royale",
     "category": "Movies"
@@ -587,6 +917,16 @@ window.WALLPAPERS=[
   {
     "file": "Movies/Doctor strange.jpg",
     "title": "Doctor Strange",
+    "category": "Movies"
+  },
+  {
+    "file": "Movies/Fight Club.jpg",
+    "title": "Fight Club",
+    "category": "Movies"
+  },
+  {
+    "file": "Movies/John Wick center.jpg",
+    "title": "John Wick Center",
     "category": "Movies"
   },
   {
@@ -635,6 +975,21 @@ window.WALLPAPERS=[
     "category": "Superheroes"
   },
   {
+    "file": "Superheroes/Cy.jpg",
+    "title": "Cy",
+    "category": "Superheroes"
+  },
+  {
+    "file": "Superheroes/Cyclops.jpg",
+    "title": "Cyclops",
+    "category": "Superheroes"
+  },
+  {
+    "file": "Superheroes/Daredevil darkk.jpg",
+    "title": "Daredevil Darkk",
+    "category": "Superheroes"
+  },
+  {
     "file": "Superheroes/Daredevil.jpg",
     "title": "Daredevil",
     "category": "Superheroes"
@@ -642,6 +997,11 @@ window.WALLPAPERS=[
   {
     "file": "Superheroes/Doctor strange.jpg",
     "title": "Doctor Strange",
+    "category": "Superheroes"
+  },
+  {
+    "file": "Superheroes/Go Green latern.jpg",
+    "title": "Go Green Latern",
     "category": "Superheroes"
   },
   {
@@ -662,6 +1022,11 @@ window.WALLPAPERS=[
   {
     "file": "Superheroes/Moon knight.jpg",
     "title": "Moon Knight",
+    "category": "Superheroes"
+  },
+  {
+    "file": "Superheroes/Nightwing.jpg",
+    "title": "Nightwing",
     "category": "Superheroes"
   },
   {
@@ -702,6 +1067,16 @@ window.WALLPAPERS=[
   {
     "file": "Superheroes/Spiderman sittng.jpg",
     "title": "Spiderman Sittng",
+    "category": "Superheroes"
+  },
+  {
+    "file": "Superheroes/Spidey Blast.jpg",
+    "title": "Spidey Blast",
+    "category": "Superheroes"
+  },
+  {
+    "file": "Superheroes/Spidey.jpg",
+    "title": "Spidey",
     "category": "Superheroes"
   },
   {
