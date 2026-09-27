@@ -40,6 +40,11 @@ window.WALLPAPERS=[
     "category": "Aesthetic"
   },
   {
+    "file": "Aesthetic/Calm Sea.jpg",
+    "title": "Calm Sea",
+    "category": "Aesthetic"
+  },
+  {
     "file": "Aesthetic/Can you spot the man.jpg",
     "title": "Can You Spot The Man",
     "category": "Aesthetic"
@@ -85,8 +90,23 @@ window.WALLPAPERS=[
     "category": "Aesthetic"
   },
   {
+    "file": "Aesthetic/Dusk time.jpg",
+    "title": "Dusk Time",
+    "category": "Aesthetic"
+  },
+  {
     "file": "Aesthetic/Escape.jpg",
     "title": "Escape",
+    "category": "Aesthetic"
+  },
+  {
+    "file": "Aesthetic/Fasterr.jpg",
+    "title": "Fasterr",
+    "category": "Aesthetic"
+  },
+  {
+    "file": "Aesthetic/Ferrari Horizon.jpg",
+    "title": "Ferrari Horizon",
     "category": "Aesthetic"
   },
   {
@@ -100,6 +120,11 @@ window.WALLPAPERS=[
     "category": "Aesthetic"
   },
   {
+    "file": "Aesthetic/Fly high.jpg",
+    "title": "Fly High",
+    "category": "Aesthetic"
+  },
+  {
     "file": "Aesthetic/Football fan.jpg",
     "title": "Football Fan",
     "category": "Aesthetic"
@@ -107,6 +132,11 @@ window.WALLPAPERS=[
   {
     "file": "Aesthetic/Girl eats pizza.jpg",
     "title": "Girl Eats Pizza",
+    "category": "Aesthetic"
+  },
+  {
+    "file": "Aesthetic/Give it to someone.jpg",
+    "title": "Give It To Someone",
     "category": "Aesthetic"
   },
   {
@@ -130,6 +160,11 @@ window.WALLPAPERS=[
     "category": "Aesthetic"
   },
   {
+    "file": "Aesthetic/Ice Bear.jpg",
+    "title": "Ice Bear",
+    "category": "Aesthetic"
+  },
+  {
     "file": "Aesthetic/Just a Car.jpg",
     "title": "Just A Car",
     "category": "Aesthetic"
@@ -145,6 +180,21 @@ window.WALLPAPERS=[
     "category": "Aesthetic"
   },
   {
+    "file": "Aesthetic/Melting Glass.jpg",
+    "title": "Melting Glass",
+    "category": "Aesthetic"
+  },
+  {
+    "file": "Aesthetic/Nature's view.jpg",
+    "title": "Nature'S View",
+    "category": "Aesthetic"
+  },
+  {
+    "file": "Aesthetic/No Internet.jpg",
+    "title": "No Internet",
+    "category": "Aesthetic"
+  },
+  {
     "file": "Aesthetic/Noodle.jpg",
     "title": "Noodle",
     "category": "Aesthetic"
@@ -152,6 +202,11 @@ window.WALLPAPERS=[
   {
     "file": "Aesthetic/Orange Bottle.jpg",
     "title": "Orange Bottle",
+    "category": "Aesthetic"
+  },
+  {
+    "file": "Aesthetic/Orange tree.jpg",
+    "title": "Orange Tree",
     "category": "Aesthetic"
   },
   {
@@ -180,8 +235,18 @@ window.WALLPAPERS=[
     "category": "Aesthetic"
   },
   {
+    "file": "Aesthetic/Sailing in the sea.jpg",
+    "title": "Sailing In The Sea",
+    "category": "Aesthetic"
+  },
+  {
     "file": "Aesthetic/Samurai Sword.jpg",
     "title": "Samurai Sword",
+    "category": "Aesthetic"
+  },
+  {
+    "file": "Aesthetic/Scenic view.jpg",
+    "title": "Scenic View",
     "category": "Aesthetic"
   },
   {
@@ -200,8 +265,28 @@ window.WALLPAPERS=[
     "category": "Aesthetic"
   },
   {
+    "file": "Aesthetic/Still Dreaming.jpg",
+    "title": "Still Dreaming",
+    "category": "Aesthetic"
+  },
+  {
+    "file": "Aesthetic/Still Going.jpg",
+    "title": "Still Going",
+    "category": "Aesthetic"
+  },
+  {
+    "file": "Aesthetic/Sunsets.jpg",
+    "title": "Sunsets",
+    "category": "Aesthetic"
+  },
+  {
     "file": "Aesthetic/Supes.jpg",
     "title": "Supes",
+    "category": "Aesthetic"
+  },
+  {
+    "file": "Aesthetic/Tame a Ox.jpg",
+    "title": "Tame A Ox",
     "category": "Aesthetic"
   },
   {
@@ -210,8 +295,18 @@ window.WALLPAPERS=[
     "category": "Aesthetic"
   },
   {
+    "file": "Aesthetic/Velvet Red.jpg",
+    "title": "Velvet Red",
+    "category": "Aesthetic"
+  },
+  {
     "file": "Aesthetic/Walking Alone.jpg",
     "title": "Walking Alone",
+    "category": "Aesthetic"
+  },
+  {
+    "file": "Aesthetic/Want a seat in forest.jpg",
+    "title": "Want A Seat In Forest",
     "category": "Aesthetic"
   },
   {
@@ -255,6 +350,11 @@ window.WALLPAPERS=[
     "category": "Aesthetic"
   },
   {
+    "file": "Aesthetic/Work in Nature.jpg",
+    "title": "Work In Nature",
+    "category": "Aesthetic"
+  },
+  {
     "file": "Anime/Anime Girls.jpg",
     "title": "Anime Girls",
     "category": "Anime"
@@ -275,6 +375,11 @@ window.WALLPAPERS=[
     "category": "Anime"
   },
   {
+    "file": "Anime/GTO.jpg",
+    "title": "Gto",
+    "category": "Anime"
+  },
+  {
     "file": "Anime/Goberserk.png",
     "title": "Goberserk",
     "category": "Anime"
@@ -290,8 +395,23 @@ window.WALLPAPERS=[
     "category": "Anime"
   },
   {
+    "file": "Anime/Goku in Training.jpg",
+    "title": "Goku In Training",
+    "category": "Anime"
+  },
+  {
     "file": "Anime/Goku super saiyan.jpg",
     "title": "Goku Super Saiyan",
+    "category": "Anime"
+  },
+  {
+    "file": "Anime/Goku's Kamehameha.jpg",
+    "title": "Goku'S Kamehameha",
+    "category": "Anime"
+  },
+  {
+    "file": "Anime/Goku's Spirit Bomb.jpg",
+    "title": "Goku'S Spirit Bomb",
     "category": "Anime"
   },
   {
@@ -325,9 +445,29 @@ window.WALLPAPERS=[
     "category": "Anime"
   },
   {
+    "file": "Anime/Second Hokage.jpg",
+    "title": "Second Hokage",
+    "category": "Anime"
+  },
+  {
     "file": "Anime/Super Trunks.jpg",
     "title": "Super Trunks",
     "category": "Anime"
+  },
+  {
+    "file": "Artists/Can't hear you.jpg",
+    "title": "Can'T Hear You",
+    "category": "Artists"
+  },
+  {
+    "file": "Artists/King of Pop.jpg",
+    "title": "King Of Pop",
+    "category": "Artists"
+  },
+  {
+    "file": "Artists/King of pop arrives.jpg",
+    "title": "King Of Pop Arrives",
+    "category": "Artists"
   },
   {
     "file": "Artists/MJ pop.jpg",
@@ -342,6 +482,11 @@ window.WALLPAPERS=[
   {
     "file": "Artists/Michael Jackson.jpg",
     "title": "Michael Jackson",
+    "category": "Artists"
+  },
+  {
+    "file": "Artists/Moonwalker.jpg",
+    "title": "Moonwalker",
     "category": "Artists"
   },
   {
@@ -372,6 +517,11 @@ window.WALLPAPERS=[
   {
     "file": "Cartoons/Chill time.jpg",
     "title": "Chill Time",
+    "category": "Cartoons"
+  },
+  {
+    "file": "Cartoons/Coffee time.jpg",
+    "title": "Coffee Time",
     "category": "Cartoons"
   },
   {
@@ -427,6 +577,11 @@ window.WALLPAPERS=[
   {
     "file": "Cartoons/Omnitrix.jpg",
     "title": "Omnitrix",
+    "category": "Cartoons"
+  },
+  {
+    "file": "Cartoons/Spidey sense.jpg",
+    "title": "Spidey Sense",
     "category": "Cartoons"
   },
   {
@@ -655,6 +810,11 @@ window.WALLPAPERS=[
     "category": "Dark"
   },
   {
+    "file": "Dark/The 1% club.jpg",
+    "title": "The 1% Club",
+    "category": "Dark"
+  },
+  {
     "file": "Dark/WTF.jpg",
     "title": "Wtf",
     "category": "Dark"
@@ -685,9 +845,324 @@ window.WALLPAPERS=[
     "category": "Games"
   },
   {
+    "file": "Games/Call of duty seal.jpg",
+    "title": "Call Of Duty Seal",
+    "category": "Games"
+  },
+  {
+    "file": "Games/Ghost with Sword.jpg",
+    "title": "Ghost With Sword",
+    "category": "Games"
+  },
+  {
     "file": "Games/Ghosttttt.jpg",
     "title": "Ghosttttt",
     "category": "Games"
+  },
+  {
+    "file": "Games/In Battle mode.jpg",
+    "title": "In Battle Mode",
+    "category": "Games"
+  },
+  {
+    "file": "Games/Infront of a charm.jpg",
+    "title": "Infront Of A Charm",
+    "category": "Games"
+  },
+  {
+    "file": "Games/Releasing Soon.jpg",
+    "title": "Releasing Soon",
+    "category": "Games"
+  },
+  {
+    "file": "Indianwood/90's Kajal.jpg",
+    "title": "90'S Kajal",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/AK swag.jpg",
+    "title": "Ak Swag",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/AK.jpg",
+    "title": "Ak",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Aishwarya Lekshmi.jpg",
+    "title": "Aishwarya Lekshmi",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Ajith Classic.jpg",
+    "title": "Ajith Classic",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Ajith shalini.jpg",
+    "title": "Ajith Shalini",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Ajith.jpg",
+    "title": "Ajith",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Andaavar.jpg",
+    "title": "Andaavar",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Andavar.jpg",
+    "title": "Andavar",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Annamalai.jpg",
+    "title": "Annamalai",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Baasha.jpg",
+    "title": "Baasha",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Beautiness overload.jpg",
+    "title": "Beautiness Overload",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Divya bharathi.jpg",
+    "title": "Divya Bharathi",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Fall for AK.jpg",
+    "title": "Fall For Ak",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Get rajinified.jpg",
+    "title": "Get Rajinified",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Kajal Aggarwal.jpg",
+    "title": "Kajal Aggarwal",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Kamal Hassan.jpg",
+    "title": "Kamal Hassan",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Khan.jpg",
+    "title": "Khan",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Legend actress.jpg",
+    "title": "Legend Actress",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Leo forged.jpg",
+    "title": "Leo Forged",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Maaveeran.jpg",
+    "title": "Maaveeran",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Mamitha Baiju.jpg",
+    "title": "Mamitha Baiju",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Man With a plan.jpg",
+    "title": "Man With A Plan",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Moving Beauty.jpg",
+    "title": "Moving Beauty",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Mrunal Thakur.jpg",
+    "title": "Mrunal Thakur",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Nani's Journey.jpg",
+    "title": "Nani'S Journey",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Padayappa.jpg",
+    "title": "Padayappa",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Petta Rajini (negative).jpg",
+    "title": "Petta Rajini (Negative)",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Petta mass.jpg",
+    "title": "Petta Mass",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Poses of a bachelor.jpg",
+    "title": "Poses Of A Bachelor",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Prakash Raj.jpg",
+    "title": "Prakash Raj",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Radhima.jpg",
+    "title": "Radhima",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Rajini in Johnny.jpg",
+    "title": "Rajini In Johnny",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Rowdy Ranga.jpg",
+    "title": "Rowdy Ranga",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Sai pallavi's Portrait.jpg",
+    "title": "Sai Pallavi'S Portrait",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Sai pallavi.jpg",
+    "title": "Sai Pallavi",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Samantha Ruth Prabhu.jpg",
+    "title": "Samantha Ruth Prabhu",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Shall I fall for you.jpg",
+    "title": "Shall I Fall For You",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Shobana.jpg",
+    "title": "Shobana",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Sita Ramam.jpg",
+    "title": "Sita Ramam",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Smile please.jpg",
+    "title": "Smile Please",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Still Planning the Game.jpg",
+    "title": "Still Planning The Game",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Striking view.jpg",
+    "title": "Striking View",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Style Specialist.jpg",
+    "title": "Style Specialist",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Superstar Rajini.jpg",
+    "title": "Superstar Rajini",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Superstarrr.jpg",
+    "title": "Superstarrr",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Thalapathi Rajini.jpg",
+    "title": "Thalapathi Rajini",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/The One.jpg",
+    "title": "The One",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/The boss.jpg",
+    "title": "The Boss",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Varanam Aiyaram Suriya.jpg",
+    "title": "Varanam Aiyaram Suriya",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Veeramae Jayam.jpg",
+    "title": "Veeramae Jayam",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Vikram Kamal Hassan.jpg",
+    "title": "Vikram Kamal Hassan",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Vikram.jpg",
+    "title": "Vikram",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/What's up.jpg",
+    "title": "What'S Up",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/rajinikanth.jpg",
+    "title": "Rajinikanth",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Inspire/#achieved.jpg",
+    "title": "#Achieved",
+    "category": "Inspire"
+  },
+  {
+    "file": "Inspire/100%.jpg",
+    "title": "100%",
+    "category": "Inspire"
+  },
+  {
+    "file": "Inspire/Arise awake.jpg",
+    "title": "Arise Awake",
+    "category": "Inspire"
   },
   {
     "file": "Inspire/Be obssesed.jpg",
@@ -697,6 +1172,16 @@ window.WALLPAPERS=[
   {
     "file": "Inspire/Be strong.jpg",
     "title": "Be Strong",
+    "category": "Inspire"
+  },
+  {
+    "file": "Inspire/Billionaire's Club.jpg",
+    "title": "Billionaire'S Club",
+    "category": "Inspire"
+  },
+  {
+    "file": "Inspire/Bruce Lee.jpg",
+    "title": "Bruce Lee",
     "category": "Inspire"
   },
   {
@@ -710,13 +1195,33 @@ window.WALLPAPERS=[
     "category": "Inspire"
   },
   {
+    "file": "Inspire/Go with a Flow.jpg",
+    "title": "Go With A Flow",
+    "category": "Inspire"
+  },
+  {
     "file": "Inspire/Gone for ride.jpg",
     "title": "Gone For Ride",
     "category": "Inspire"
   },
   {
+    "file": "Inspire/Harvey Specter.jpg",
+    "title": "Harvey Specter",
+    "category": "Inspire"
+  },
+  {
+    "file": "Inspire/It's me.jpg",
+    "title": "It'S Me",
+    "category": "Inspire"
+  },
+  {
     "file": "Inspire/K1NG.jpg",
     "title": "K1Ng",
+    "category": "Inspire"
+  },
+  {
+    "file": "Inspire/Light gives the way.jpg",
+    "title": "Light Gives The Way",
     "category": "Inspire"
   },
   {
@@ -732,6 +1237,11 @@ window.WALLPAPERS=[
   {
     "file": "Inspire/Moon knight.jpg",
     "title": "Moon Knight",
+    "category": "Inspire"
+  },
+  {
+    "file": "Inspire/Must Have.jpg",
+    "title": "Must Have",
     "category": "Inspire"
   },
   {
@@ -755,6 +1265,16 @@ window.WALLPAPERS=[
     "category": "Inspire"
   },
   {
+    "file": "Inspire/That's Correct.jpg",
+    "title": "That'S Correct",
+    "category": "Inspire"
+  },
+  {
+    "file": "Inspire/There is no Tomorrow.jpg",
+    "title": "There Is No Tomorrow",
+    "category": "Inspire"
+  },
+  {
     "file": "Inspire/Tony stark.jpg",
     "title": "Tony Stark",
     "category": "Inspire"
@@ -770,143 +1290,18 @@ window.WALLPAPERS=[
     "category": "Inspire"
   },
   {
-    "file": "Kollywood/AK swag.jpg",
-    "title": "Ak Swag",
-    "category": "Kollywood"
-  },
-  {
-    "file": "Kollywood/AK.jpg",
-    "title": "Ak",
-    "category": "Kollywood"
-  },
-  {
-    "file": "Kollywood/Ajith shalini.jpg",
-    "title": "Ajith Shalini",
-    "category": "Kollywood"
-  },
-  {
-    "file": "Kollywood/Ajith.jpg",
-    "title": "Ajith",
-    "category": "Kollywood"
-  },
-  {
-    "file": "Kollywood/Andaavar.jpg",
-    "title": "Andaavar",
-    "category": "Kollywood"
-  },
-  {
-    "file": "Kollywood/Andavar.jpg",
-    "title": "Andavar",
-    "category": "Kollywood"
-  },
-  {
-    "file": "Kollywood/Baasha.jpg",
-    "title": "Baasha",
-    "category": "Kollywood"
-  },
-  {
-    "file": "Kollywood/Fall for AK.jpg",
-    "title": "Fall For Ak",
-    "category": "Kollywood"
-  },
-  {
-    "file": "Kollywood/Get rajinified.jpg",
-    "title": "Get Rajinified",
-    "category": "Kollywood"
-  },
-  {
-    "file": "Kollywood/Kamal Hassan.jpg",
-    "title": "Kamal Hassan",
-    "category": "Kollywood"
-  },
-  {
-    "file": "Kollywood/Khan.jpg",
-    "title": "Khan",
-    "category": "Kollywood"
-  },
-  {
-    "file": "Kollywood/Man With a plan.jpg",
-    "title": "Man With A Plan",
-    "category": "Kollywood"
-  },
-  {
-    "file": "Kollywood/Padayappa.jpg",
-    "title": "Padayappa",
-    "category": "Kollywood"
-  },
-  {
-    "file": "Kollywood/Prakash Raj.jpg",
-    "title": "Prakash Raj",
-    "category": "Kollywood"
-  },
-  {
-    "file": "Kollywood/Rajini in Johnny.jpg",
-    "title": "Rajini In Johnny",
-    "category": "Kollywood"
-  },
-  {
-    "file": "Kollywood/Shobana.jpg",
-    "title": "Shobana",
-    "category": "Kollywood"
-  },
-  {
-    "file": "Kollywood/Style Specialist.jpg",
-    "title": "Style Specialist",
-    "category": "Kollywood"
-  },
-  {
-    "file": "Kollywood/Superstar Rajini.jpg",
-    "title": "Superstar Rajini",
-    "category": "Kollywood"
-  },
-  {
-    "file": "Kollywood/Superstarrr.jpg",
-    "title": "Superstarrr",
-    "category": "Kollywood"
-  },
-  {
-    "file": "Kollywood/Thalapathi Rajini.jpg",
-    "title": "Thalapathi Rajini",
-    "category": "Kollywood"
-  },
-  {
-    "file": "Kollywood/The One.jpg",
-    "title": "The One",
-    "category": "Kollywood"
-  },
-  {
-    "file": "Kollywood/The boss.jpg",
-    "title": "The Boss",
-    "category": "Kollywood"
-  },
-  {
-    "file": "Kollywood/Varanam Aiyaram Suriya.jpg",
-    "title": "Varanam Aiyaram Suriya",
-    "category": "Kollywood"
-  },
-  {
-    "file": "Kollywood/Veeramae Jayam.jpg",
-    "title": "Veeramae Jayam",
-    "category": "Kollywood"
-  },
-  {
-    "file": "Kollywood/Vikram Kamal Hassan.jpg",
-    "title": "Vikram Kamal Hassan",
-    "category": "Kollywood"
-  },
-  {
-    "file": "Kollywood/Vikram.jpg",
-    "title": "Vikram",
-    "category": "Kollywood"
-  },
-  {
-    "file": "Kollywood/rajinikanth.jpg",
-    "title": "Rajinikanth",
-    "category": "Kollywood"
-  },
-  {
     "file": "Movies/American Psycho.jpg",
     "title": "American Psycho",
+    "category": "Movies"
+  },
+  {
+    "file": "Movies/Bond as 007.jpg",
+    "title": "Bond As 007",
+    "category": "Movies"
+  },
+  {
+    "file": "Movies/Brad Pitt.jpg",
+    "title": "Brad Pitt",
     "category": "Movies"
   },
   {
@@ -920,8 +1315,53 @@ window.WALLPAPERS=[
     "category": "Movies"
   },
   {
+    "file": "Movies/El toro.jpg",
+    "title": "El Toro",
+    "category": "Movies"
+  },
+  {
     "file": "Movies/Fight Club.jpg",
     "title": "Fight Club",
+    "category": "Movies"
+  },
+  {
+    "file": "Movies/Genius.jpg",
+    "title": "Genius",
+    "category": "Movies"
+  },
+  {
+    "file": "Movies/Gus Who.jpg",
+    "title": "Gus Who",
+    "category": "Movies"
+  },
+  {
+    "file": "Movies/Hangout.jpg",
+    "title": "Hangout",
+    "category": "Movies"
+  },
+  {
+    "file": "Movies/Hangover.jpg",
+    "title": "Hangover",
+    "category": "Movies"
+  },
+  {
+    "file": "Movies/Harvey in Suits.jpg",
+    "title": "Harvey In Suits",
+    "category": "Movies"
+  },
+  {
+    "file": "Movies/He Built it In a cave.jpg",
+    "title": "He Built It In A Cave",
+    "category": "Movies"
+  },
+  {
+    "file": "Movies/It's all goodman.jpg",
+    "title": "It'S All Goodman",
+    "category": "Movies"
+  },
+  {
+    "file": "Movies/Joe black.jpg",
+    "title": "Joe Black",
     "category": "Movies"
   },
   {
@@ -930,8 +1370,38 @@ window.WALLPAPERS=[
     "category": "Movies"
   },
   {
+    "file": "Movies/Meet Mr Joe.jpg",
+    "title": "Meet Mr Joe",
+    "category": "Movies"
+  },
+  {
+    "file": "Movies/Paul Walker.jpg",
+    "title": "Paul Walker",
+    "category": "Movies"
+  },
+  {
+    "file": "Movies/Robert Downey Jr.jpg",
+    "title": "Robert Downey Jr",
+    "category": "Movies"
+  },
+  {
     "file": "Movies/Spider Brand New.jpg",
     "title": "Spider Brand New",
+    "category": "Movies"
+  },
+  {
+    "file": "Movies/The GodFather.jpg",
+    "title": "The Godfather",
+    "category": "Movies"
+  },
+  {
+    "file": "Movies/The Matrix.jpg",
+    "title": "The Matrix",
+    "category": "Movies"
+  },
+  {
+    "file": "Movies/Tired.jpg",
+    "title": "Tired",
     "category": "Movies"
   },
   {
@@ -945,8 +1415,63 @@ window.WALLPAPERS=[
     "category": "Movies"
   },
   {
+    "file": "Movies/Wick's Bounty.jpg",
+    "title": "Wick'S Bounty",
+    "category": "Movies"
+  },
+  {
+    "file": "Movies/interstellar.jpg",
+    "title": "Interstellar",
+    "category": "Movies"
+  },
+  {
+    "file": "Patterns/Flowers.jpg",
+    "title": "Flowers",
+    "category": "Patterns"
+  },
+  {
+    "file": "Patterns/Full of Apples.jpg",
+    "title": "Full Of Apples",
+    "category": "Patterns"
+  },
+  {
+    "file": "Patterns/Full of Citrus.jpg",
+    "title": "Full Of Citrus",
+    "category": "Patterns"
+  },
+  {
+    "file": "Patterns/Lucky Plant.jpg",
+    "title": "Lucky Plant",
+    "category": "Patterns"
+  },
+  {
+    "file": "Patterns/Minimal Pattern.jpg",
+    "title": "Minimal Pattern",
+    "category": "Patterns"
+  },
+  {
+    "file": "Patterns/Orange Dessert.jpg",
+    "title": "Orange Dessert",
+    "category": "Patterns"
+  },
+  {
     "file": "Patterns/Orange.jpg",
     "title": "Orange",
+    "category": "Patterns"
+  },
+  {
+    "file": "Patterns/Top of the forest.jpg",
+    "title": "Top Of The Forest",
+    "category": "Patterns"
+  },
+  {
+    "file": "Patterns/View of Nature.jpg",
+    "title": "View Of Nature",
+    "category": "Patterns"
+  },
+  {
+    "file": "Patterns/Watermelon Slices.jpg",
+    "title": "Watermelon Slices",
     "category": "Patterns"
   },
   {
@@ -958,6 +1483,111 @@ window.WALLPAPERS=[
     "file": "Patterns/Wavy img.jpg",
     "title": "Wavy Img",
     "category": "Patterns"
+  },
+  {
+    "file": "Sports/Believe in you.jpg",
+    "title": "Believe In You",
+    "category": "Sports"
+  },
+  {
+    "file": "Sports/Can't hear you bro.jpg",
+    "title": "Can'T Hear You Bro",
+    "category": "Sports"
+  },
+  {
+    "file": "Sports/Indian Team.jpg",
+    "title": "Indian Team",
+    "category": "Sports"
+  },
+  {
+    "file": "Sports/Jose Mourinho.jpg",
+    "title": "Jose Mourinho",
+    "category": "Sports"
+  },
+  {
+    "file": "Sports/King Kohli.jpg",
+    "title": "King Kohli",
+    "category": "Sports"
+  },
+  {
+    "file": "Sports/Muhammad ali.jpg",
+    "title": "Muhammad Ali",
+    "category": "Sports"
+  },
+  {
+    "file": "Sports/Passion defines legacy.jpg",
+    "title": "Passion Defines Legacy",
+    "category": "Sports"
+  },
+  {
+    "file": "Sports/Perfect strokes.jpg",
+    "title": "Perfect Strokes",
+    "category": "Sports"
+  },
+  {
+    "file": "Sports/Professional Poses.jpg",
+    "title": "Professional Poses",
+    "category": "Sports"
+  },
+  {
+    "file": "Sports/RCB'S King.jpg",
+    "title": "Rcb'S King",
+    "category": "Sports"
+  },
+  {
+    "file": "Sports/Randyyy.jpg",
+    "title": "Randyyy",
+    "category": "Sports"
+  },
+  {
+    "file": "Sports/Ronaldo's pose.jpg",
+    "title": "Ronaldo'S Pose",
+    "category": "Sports"
+  },
+  {
+    "file": "Sports/Ronaldo.jpg",
+    "title": "Ronaldo",
+    "category": "Sports"
+  },
+  {
+    "file": "Sports/Sachin Tendulkar.jpg",
+    "title": "Sachin Tendulkar",
+    "category": "Sports"
+  },
+  {
+    "file": "Sports/Self Believe.jpg",
+    "title": "Self Believe",
+    "category": "Sports"
+  },
+  {
+    "file": "Sports/The Batsman.jpg",
+    "title": "The Batsman",
+    "category": "Sports"
+  },
+  {
+    "file": "Sports/The great MSD.jpg",
+    "title": "The Great Msd",
+    "category": "Sports"
+  },
+  {
+    "file": "Sports/The wall.jpg",
+    "title": "The Wall",
+    "category": "Sports"
+  },
+  {
+    "file": "Sports/Virat Kohli in Test.jpg",
+    "title": "Virat Kohli In Test",
+    "category": "Sports"
+  },
+  {
+    "file": "Sports/Virat The legend.jpg",
+    "title": "Virat The Legend",
+    "category": "Sports"
+  },
+  {
+    "file": "Sports/What a pose...jpg",
+    "title": "What A Pose..",
+    "category": "Sports"
   },
   {
     "file": "Superheroes/2099.jpg",
@@ -997,6 +1627,16 @@ window.WALLPAPERS=[
   {
     "file": "Superheroes/Doctor strange.jpg",
     "title": "Doctor Strange",
+    "category": "Superheroes"
+  },
+  {
+    "file": "Superheroes/Floating for hope.jpg",
+    "title": "Floating For Hope",
+    "category": "Superheroes"
+  },
+  {
+    "file": "Superheroes/Flying past sonic.jpg",
+    "title": "Flying Past Sonic",
     "category": "Superheroes"
   },
   {
@@ -1092,6 +1732,16 @@ window.WALLPAPERS=[
   {
     "file": "Superheroes/Symbiote Spider man.jpg",
     "title": "Symbiote Spider Man",
+    "category": "Superheroes"
+  },
+  {
+    "file": "Superheroes/Watching the City.jpg",
+    "title": "Watching The City",
+    "category": "Superheroes"
+  },
+  {
+    "file": "Superheroes/What's Cookin.jpg",
+    "title": "What'S Cookin",
     "category": "Superheroes"
   },
   {
