@@ -1150,11 +1150,6 @@ window.WALLPAPERS=[
     "category": "Indianwood"
   },
   {
-    "file": "Inspire/#achieved.jpg",
-    "title": "#Achieved",
-    "category": "Inspire"
-  },
-  {
     "file": "Inspire/100%.jpg",
     "title": "100%",
     "category": "Inspire"
@@ -1287,6 +1282,11 @@ window.WALLPAPERS=[
   {
     "file": "Inspire/Warrior in an Island.jpg",
     "title": "Warrior In An Island",
+    "category": "Inspire"
+  },
+  {
+    "file": "Inspire/achieved.jpg",
+    "title": "Achieved",
     "category": "Inspire"
   },
   {
