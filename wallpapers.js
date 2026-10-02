@@ -35,6 +35,11 @@ window.WALLPAPERS=[
     "category": "Aesthetic"
   },
   {
+    "file": "Aesthetic/Beeach time.jpg",
+    "title": "Beeach Time",
+    "category": "Aesthetic"
+  },
+  {
     "file": "Aesthetic/Bubble blast.jpg",
     "title": "Bubble Blast",
     "category": "Aesthetic"
@@ -80,6 +85,11 @@ window.WALLPAPERS=[
     "category": "Aesthetic"
   },
   {
+    "file": "Aesthetic/Deep dive.jpg",
+    "title": "Deep Dive",
+    "category": "Aesthetic"
+  },
+  {
     "file": "Aesthetic/Dragon Man.png",
     "title": "Dragon Man",
     "category": "Aesthetic"
@@ -92,6 +102,11 @@ window.WALLPAPERS=[
   {
     "file": "Aesthetic/Dusk time.jpg",
     "title": "Dusk Time",
+    "category": "Aesthetic"
+  },
+  {
+    "file": "Aesthetic/Enjoying view.jpg",
+    "title": "Enjoying View",
     "category": "Aesthetic"
   },
   {
@@ -145,6 +160,11 @@ window.WALLPAPERS=[
     "category": "Aesthetic"
   },
   {
+    "file": "Aesthetic/Gone fish'n.jpg",
+    "title": "Gone Fish'N",
+    "category": "Aesthetic"
+  },
+  {
     "file": "Aesthetic/Got the shot.jpg",
     "title": "Got The Shot",
     "category": "Aesthetic"
@@ -152,6 +172,11 @@ window.WALLPAPERS=[
   {
     "file": "Aesthetic/Green Light.jpg",
     "title": "Green Light",
+    "category": "Aesthetic"
+  },
+  {
+    "file": "Aesthetic/HotWood.jpg",
+    "title": "Hotwood",
     "category": "Aesthetic"
   },
   {
@@ -315,6 +340,11 @@ window.WALLPAPERS=[
     "category": "Aesthetic"
   },
   {
+    "file": "Aesthetic/Watch your back.jpg",
+    "title": "Watch Your Back",
+    "category": "Aesthetic"
+  },
+  {
     "file": "Aesthetic/Waves.jpg",
     "title": "Waves",
     "category": "Aesthetic"
@@ -450,6 +480,11 @@ window.WALLPAPERS=[
     "category": "Anime"
   },
   {
+    "file": "Anime/Sleepy Goku.jpg",
+    "title": "Sleepy Goku",
+    "category": "Anime"
+  },
+  {
     "file": "Anime/Super Trunks.jpg",
     "title": "Super Trunks",
     "category": "Anime"
@@ -488,6 +523,16 @@ window.WALLPAPERS=[
     "file": "Artists/Moonwalker.jpg",
     "title": "Moonwalker",
     "category": "Artists"
+  },
+  {
+    "file": "Cartoons/Bat Logo.jpg",
+    "title": "Bat Logo",
+    "category": "Cartoons"
+  },
+  {
+    "file": "Cartoons/Batman 90s.jpg",
+    "title": "Batman 90S",
+    "category": "Cartoons"
   },
   {
     "file": "Cartoons/Batman Anime.jpg",
@@ -530,8 +575,18 @@ window.WALLPAPERS=[
     "category": "Cartoons"
   },
   {
+    "file": "Cartoons/Daredevil kick.jpg",
+    "title": "Daredevil Kick",
+    "category": "Cartoons"
+  },
+  {
     "file": "Cartoons/Dexter research.jpg",
     "title": "Dexter Research",
+    "category": "Cartoons"
+  },
+  {
+    "file": "Cartoons/Ed, Edd, Eddie.jpg",
+    "title": "Ed, Edd, Eddie",
     "category": "Cartoons"
   },
   {
@@ -565,6 +620,16 @@ window.WALLPAPERS=[
     "category": "Cartoons"
   },
   {
+    "file": "Cartoons/Jackie chan.jpg",
+    "title": "Jackie Chan",
+    "category": "Cartoons"
+  },
+  {
+    "file": "Cartoons/Kick and gunther.jpg",
+    "title": "Kick And Gunther",
+    "category": "Cartoons"
+  },
+  {
     "file": "Cartoons/Lock in.jpg",
     "title": "Lock In",
     "category": "Cartoons"
@@ -577,6 +642,16 @@ window.WALLPAPERS=[
   {
     "file": "Cartoons/Omnitrix.jpg",
     "title": "Omnitrix",
+    "category": "Cartoons"
+  },
+  {
+    "file": "Cartoons/Samurai Jack.jpg",
+    "title": "Samurai Jack",
+    "category": "Cartoons"
+  },
+  {
+    "file": "Cartoons/Spider X MJ.jpg",
+    "title": "Spider X Mj",
     "category": "Cartoons"
   },
   {
@@ -602,6 +677,11 @@ window.WALLPAPERS=[
   {
     "file": "Cartoons/Thragg.jpg",
     "title": "Thragg",
+    "category": "Cartoons"
+  },
+  {
+    "file": "Cartoons/Tintin.jpg",
+    "title": "Tintin",
     "category": "Cartoons"
   },
   {
@@ -860,6 +940,11 @@ window.WALLPAPERS=[
     "category": "Games"
   },
   {
+    "file": "Games/Going Dark.jpg",
+    "title": "Going Dark",
+    "category": "Games"
+  },
+  {
     "file": "Games/In Battle mode.jpg",
     "title": "In Battle Mode",
     "category": "Games"
@@ -910,6 +995,11 @@ window.WALLPAPERS=[
     "category": "Indianwood"
   },
   {
+    "file": "Indianwood/Amarun.jpg",
+    "title": "Amarun",
+    "category": "Indianwood"
+  },
+  {
     "file": "Indianwood/Andaavar.jpg",
     "title": "Andaavar",
     "category": "Indianwood"
@@ -935,6 +1025,21 @@ window.WALLPAPERS=[
     "category": "Indianwood"
   },
   {
+    "file": "Indianwood/Classics Ajith.jpg",
+    "title": "Classics Ajith",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Cross the space and come.jpg",
+    "title": "Cross The Space And Come",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/DQ.jpg",
+    "title": "Dq",
+    "category": "Indianwood"
+  },
+  {
     "file": "Indianwood/Divya bharathi.jpg",
     "title": "Divya Bharathi",
     "category": "Indianwood"
@@ -945,8 +1050,18 @@ window.WALLPAPERS=[
     "category": "Indianwood"
   },
   {
+    "file": "Indianwood/Fan's favorite star.jpg",
+    "title": "Fan'S Favorite Star",
+    "category": "Indianwood"
+  },
+  {
     "file": "Indianwood/Get rajinified.jpg",
     "title": "Get Rajinified",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/JD is here.jpg",
+    "title": "Jd Is Here",
     "category": "Indianwood"
   },
   {
@@ -957,6 +1072,11 @@ window.WALLPAPERS=[
   {
     "file": "Indianwood/Kamal Hassan.jpg",
     "title": "Kamal Hassan",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Kayadu.jpg",
+    "title": "Kayadu",
     "category": "Indianwood"
   },
   {
@@ -972,6 +1092,16 @@ window.WALLPAPERS=[
   {
     "file": "Indianwood/Leo forged.jpg",
     "title": "Leo Forged",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Lokahh.jpg",
+    "title": "Lokahh",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Lucky DQ.jpg",
+    "title": "Lucky Dq",
     "category": "Indianwood"
   },
   {
@@ -1002,6 +1132,16 @@ window.WALLPAPERS=[
   {
     "file": "Indianwood/Nani's Journey.jpg",
     "title": "Nani'S Journey",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Natural star.jpg",
+    "title": "Natural Star",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Nayak.jpg",
+    "title": "Nayak",
     "category": "Indianwood"
   },
   {
@@ -1080,6 +1220,11 @@ window.WALLPAPERS=[
     "category": "Indianwood"
   },
   {
+    "file": "Indianwood/Someone's looking good in tank top.jpg",
+    "title": "Someone'S Looking Good In Tank Top",
+    "category": "Indianwood"
+  },
+  {
     "file": "Indianwood/Still Planning the Game.jpg",
     "title": "Still Planning The Game",
     "category": "Indianwood"
@@ -1102,6 +1247,11 @@ window.WALLPAPERS=[
   {
     "file": "Indianwood/Superstarrr.jpg",
     "title": "Superstarrr",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Swaag.jpg",
+    "title": "Swaag",
     "category": "Indianwood"
   },
   {
@@ -1142,6 +1292,11 @@ window.WALLPAPERS=[
   {
     "file": "Indianwood/What's up.jpg",
     "title": "What'S Up",
+    "category": "Indianwood"
+  },
+  {
+    "file": "Indianwood/Yes sir.jpg",
+    "title": "Yes Sir",
     "category": "Indianwood"
   },
   {
@@ -1305,8 +1460,18 @@ window.WALLPAPERS=[
     "category": "Movies"
   },
   {
+    "file": "Movies/Breaking badd.jpg",
+    "title": "Breaking Badd",
+    "category": "Movies"
+  },
+  {
     "file": "Movies/Casino Royale.jpg",
     "title": "Casino Royale",
+    "category": "Movies"
+  },
+  {
+    "file": "Movies/Cruising Cruise.jpg",
+    "title": "Cruising Cruise",
     "category": "Movies"
   },
   {
@@ -1320,8 +1485,18 @@ window.WALLPAPERS=[
     "category": "Movies"
   },
   {
+    "file": "Movies/F1 the movie.jpg",
+    "title": "F1 The Movie",
+    "category": "Movies"
+  },
+  {
     "file": "Movies/Fight Club.jpg",
     "title": "Fight Club",
+    "category": "Movies"
+  },
+  {
+    "file": "Movies/Fight club's pitt.jpg",
+    "title": "Fight Club'S Pitt",
     "category": "Movies"
   },
   {
@@ -1377,6 +1552,11 @@ window.WALLPAPERS=[
   {
     "file": "Movies/Paul Walker.jpg",
     "title": "Paul Walker",
+    "category": "Movies"
+  },
+  {
+    "file": "Movies/Pup fiction.jpg",
+    "title": "Pup Fiction",
     "category": "Movies"
   },
   {
@@ -1490,8 +1670,38 @@ window.WALLPAPERS=[
     "category": "Sports"
   },
   {
+    "file": "Sports/CSKK.jpg",
+    "title": "Cskk",
+    "category": "Sports"
+  },
+  {
     "file": "Sports/Can't hear you bro.jpg",
     "title": "Can'T Hear You Bro",
+    "category": "Sports"
+  },
+  {
+    "file": "Sports/Cooolll.jpg",
+    "title": "Cooolll",
+    "category": "Sports"
+  },
+  {
+    "file": "Sports/Cornering.jpg",
+    "title": "Cornering",
+    "category": "Sports"
+  },
+  {
+    "file": "Sports/Driftss.jpg",
+    "title": "Driftss",
+    "category": "Sports"
+  },
+  {
+    "file": "Sports/F1LH.jpg",
+    "title": "F1Lh",
+    "category": "Sports"
+  },
+  {
+    "file": "Sports/Getting ready.jpg",
+    "title": "Getting Ready",
     "category": "Sports"
   },
   {
@@ -1507,6 +1717,16 @@ window.WALLPAPERS=[
   {
     "file": "Sports/King Kohli.jpg",
     "title": "King Kohli",
+    "category": "Sports"
+  },
+  {
+    "file": "Sports/Lewis hamilton.jpg",
+    "title": "Lewis Hamilton",
+    "category": "Sports"
+  },
+  {
+    "file": "Sports/Looking back.jpg",
+    "title": "Looking Back",
     "category": "Sports"
   },
   {
@@ -1595,6 +1815,16 @@ window.WALLPAPERS=[
     "category": "Superheroes"
   },
   {
+    "file": "Superheroes/80s Bats.jpg",
+    "title": "80S Bats",
+    "category": "Superheroes"
+  },
+  {
+    "file": "Superheroes/Baats.jpg",
+    "title": "Baats",
+    "category": "Superheroes"
+  },
+  {
     "file": "Superheroes/Batman Anime.jpg",
     "title": "Batman Anime",
     "category": "Superheroes"
@@ -1650,6 +1880,11 @@ window.WALLPAPERS=[
     "category": "Superheroes"
   },
   {
+    "file": "Superheroes/Hold on Spidey.jpg",
+    "title": "Hold On Spidey",
+    "category": "Superheroes"
+  },
+  {
     "file": "Superheroes/Man in spaceblack.jpg",
     "title": "Man In Spaceblack",
     "category": "Superheroes"
@@ -1687,6 +1922,11 @@ window.WALLPAPERS=[
   {
     "file": "Superheroes/Spider Fight.jpg",
     "title": "Spider Fight",
+    "category": "Superheroes"
+  },
+  {
+    "file": "Superheroes/Spider man miles.jpg",
+    "title": "Spider Man Miles",
     "category": "Superheroes"
   },
   {
